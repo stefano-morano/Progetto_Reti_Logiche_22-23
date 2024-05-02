@@ -1,4 +1,4 @@
-# Progett Reti Logiche 2022-2023
+# Progetto Reti Logiche 2022-2023
 
 VHDL code for the implementation of an FPGA. Every information about the project are included in the relation paper.
 
