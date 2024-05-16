@@ -6,4 +6,5 @@ Politecnico di Milano
 AA 2022-2023
 
 Project by Stefano Morano and Alessandro Mancini
-Professor Fabio Salice
+
+Prof. Fabio Salice
